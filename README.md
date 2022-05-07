@@ -1,6 +1,6 @@
 # aycolor
 A simple command line coloring tool in python!
-# Installing
+# Installing & Usage
 Simply type this:
 ```
 pip3 install aycolor
